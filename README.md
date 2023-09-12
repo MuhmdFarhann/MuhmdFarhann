@@ -1,6 +1,6 @@
 <!-- First Row -->
 <h1 align="center">Hello, I'm Muhamad Farhan 🤠</h1>
-<h2>Front-End developers</h2>
+<h2 align="center">Front-End developers</h2>
 
 <!-- Second Row -->
 
