@@ -31,4 +31,6 @@
 <!-- <h1 align="center">Keep in touch with me</h1> -->
 
 <!-- Github Status -->
+<h1 align="center">Github Status</h1>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MuhmdFarhann&theme=prussian&column=7&no-frame=true&show_icons=true"/></p>
 
